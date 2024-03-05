@@ -3,7 +3,7 @@
 ### 👨‍💻 BIO 👨‍💻:
 - 🏫 I'm a student at Universite Toulouse 3 - Paul Sabatier . I major in Electrical Engineering and Automation.
 - I have a strong passion for coding and take great interest in engaging with advanced web technologies, including ReactJS and NextJS.
-- My previous intern is at LEDTEK as a Electrical Engineering⚡.
+- My previous internship was at LEDTEK as an embedded software engineering⚡.
 
 ### Connect with me:
 
