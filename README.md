@@ -1,5 +1,5 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
-
+**OUTDATED AND IM TOO LAZY**
 ### 👨‍💻 BIO 👨‍💻:
 - 🏫 I'm a student at Universite Toulouse 3 - Paul Sabatier . I major in Electrical Engineering and Automation.
 - I have a strong passion for coding and take great interest in engaging with advanced web technologies, including ReactJS and NextJS.
